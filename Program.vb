@@ -7,5 +7,7 @@ Module Program
         Console.WriteLine("PullRequest branch changed")
 
         Console.WriteLine("aaaa")
+
+        Console.WriteLine("bbbb")
     End Sub
 End Module
